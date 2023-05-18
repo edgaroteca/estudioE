@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Design and Print Media</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Design and Print Media</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Services</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <section id="home">
+      <h2>Welcome to Design and Print Media</h2>
+      <p>We are a creative agency that specializes in design and print media. We offer a wide range of services, including:</p>
+      <ul>
+        <li>Web design</li>
+        <li>Graphic design</li>
+        <li>Print design</li>
+        <li>Branding</li>
+        <li>Marketing</li>
+      </ul>
+      <p>We are passionate about creating beautiful and effective designs that help our clients achieve their goals. We believe that design is a powerful tool that can be used to communicate ideas, inspire action, and create lasting impressions.</p>
+      <a href="#">Learn more</a>
+    </section>
+    <section id="about">
+      <h2>About Us</h2>
+      <p>Design and Print Media was founded in 2010 by two friends who shared a passion for design. We are a small, but dedicated team of designers and marketers who are committed to providing our clients with the highest quality services.</p>
+      <p>We have a proven track record of success in helping our clients achieve their goals. We have worked with a wide range of clients, from small businesses to large corporations, and we have helped them to improve their branding, increase their sales, and reach their target audiences.</p>
+      <p>We are confident that we can help you achieve your goals. Contact us today to learn more about our services.</p>
+    </section>
+    <section id="services">
+      <h2>Our Services</h2>
+      <ul>
+        <li>Web design</li>
+        <li>Graphic design</li>
+        <li>Print design</li>
+        <li>Branding</li>
+        <li>Marketing</li>
+      </ul>
+      <p>We offer a wide range of services to help you achieve your goals. We can help you with everything from creating a new website to designing a new logo. We also offer a variety of marketing services to help you reach your target audience.</p>
+      <p>Contact us today to learn more about our services.</p>
+    </section>
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>We would love to hear from you. Contact us today to learn more about our services or to get a quote.</p>
+      <form action="#">
+        <input type="text" placeholder="Name">
+        <input type="email" placeholder="Email">
+        <input type="text" placeholder="Phone">
+        <textarea placeholder="Message"></textarea>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2023 Design and Print Media</p>
+  </footer>
+</body>
+</html>
